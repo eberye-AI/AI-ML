@@ -76,5 +76,5 @@ Explore how enterprise knowledge bases can power AI assistants and automated wor
 
 ## Author
 
-Eskender Berye  
+Eskender  
 Enterprise Integration Engineer | AI Automation
