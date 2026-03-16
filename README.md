@@ -48,14 +48,17 @@ Demonstrate how AI agents can interact with APIs to automate tasks.
 
 ---
 
-### 4. RAG System for SBA Knowledge Retrieval
-A Retrieval-Augmented Generation (RAG) system that answers questions from SBA documentation using vector search and LLM-based responses.
+### 4. SBA RAG System with AI Agent - Small Business Administration Q&A Assistant
+A Retrieval-Augmented Generation (RAG) system enhanced with AI agent capabilities that provides accurate, verified answers about SBA loans, certifications, and business resources by retrieving information from official SBA documentation and performing financial calculations.
 
 Features:
 - Document ingestion
 - Embedding generation
 - Semantic search
 - Context-aware responses
+- Multi-tool reasoning and orchestration
+-Loan payment calculator (precise amortization formula)
+-Autonomous tool selection based on question type
 
 Goal:
 Explore how enterprise knowledge bases can power AI assistants and automated workflows.
