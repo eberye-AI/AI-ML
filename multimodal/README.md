@@ -1,4 +1,4 @@
-"""
+
 
 Manufacturing Defect Detection VQA - Visual Question Answering for Quality Control
 
